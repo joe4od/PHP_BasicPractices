@@ -1,5 +1,4 @@
 <?php
-fib_in_loop(10);
 //Fibonacci
 function fib_in_loop($x) {
   $sum = 0;

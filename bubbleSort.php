@@ -1,5 +1,4 @@
 <?php
-bubble([214, 242, 435, 100]);
 //Bubble sort
 function swap($arr, $x, $y) {
   $temp = $arr[$y];
